@@ -1,0 +1,16 @@
+{
+  "name": "sniffer-exercise",
+  "version": "1.0.0",
+  "description": "Node Console application for practice sniffing",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "type": "module",
+  "author": "Aldair Panuni <aldapanuni@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
